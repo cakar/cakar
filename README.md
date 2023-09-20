@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @cakar
 - Long time LAMP stack Dev
-- 👀 I’m interested in mern, mean, mevn projects atm
+- Also a MERN dev 
+- 👀 I’m interested in mean, mevn projects atm
 - 🌱 I’m currently learning how to combine metaverse objects to actual iot products. 
 - 💞️ I’m looking to collaborate on anything JS
 - 📫 use chaka double 'r' @gmail.com to reach me!
